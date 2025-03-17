@@ -1,8 +1,4 @@
-<!DOCTYPE html>
 <html lang="vi">
-<head>
-   
-</head>
 <body>
     <h2>Danh sách các tỉnh dự kiến sáp nhập</h2>
     <table>
