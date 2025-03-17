@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Danh sách sáp nhập tỉnh</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 20px; padding: 0; text-align: center; }
-        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
-        th, td { border: 1px solid #ddd; padding: 10px; text-align: center; }
-        th { background-color: #4CAF50; color: white; }
-    </style>
+   
 </head>
 <body>
     <h2>Danh sách các tỉnh dự kiến sáp nhập</h2>
